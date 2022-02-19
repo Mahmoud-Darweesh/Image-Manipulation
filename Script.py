@@ -4,7 +4,7 @@ import math
 
 density = '$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1[]?-_+~<>i!lI;:,"^`                                                                           '
 
-resolutionWidth = 200
+resolutionWidth = 600
 resolutionHeight = 200
 
 targetImage = 'target.PNG'
@@ -24,7 +24,7 @@ def convert():
         row = ''
         for x in range(resolutionWidth):
             row += density[math.floor((img[y,x]/255)*(len(density)-1))]
-            row += '  '
+            row += ''
 
 convert()
 
