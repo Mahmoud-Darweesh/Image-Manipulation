@@ -1,5 +1,5 @@
-# Image/Video to text
- Convert a video or image to text
+# Image-Manipulation
+ Edit images to cool creations
 
 ## The Introduction:
 
