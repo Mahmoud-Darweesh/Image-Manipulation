@@ -48,7 +48,7 @@ def query_yes_no(question, default="yes"):
             sys.stdout.write("Please respond with 'yes' or 'no' " "(or 'y' or 'n').\n")
 
 #Lets user choose if they want to change the default settings
-if not query_yes_no("Do you want to change the default settings?"):
+if not query_yes_no("Do you want to keep the default settings?"):
     resolutionWidth = int(input("Enter the resolution width: "))
     resolutionHeight = int(input("Enter the resolution height: "))
     targetImagePath = input("Enter the path to the target image Ex:(target.jpg): ")
