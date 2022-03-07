@@ -6,11 +6,13 @@ Download the folder and put the picture you want in that folder then run the scr
 
 ## Modules Needed: 
 
-`
+```
 cv2
 glob
 numpy
 random
 math
 sys
-`
+```
+
+
