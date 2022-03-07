@@ -13,8 +13,8 @@ pip install opencv-python
 pip install glob2
 pip install numpy
 pip install random2
-math
-sys
+pip install python-math
+pip install os-sys
 ```
 ## Examples:
 
