@@ -9,10 +9,10 @@ The target image will be merged with the images in the images folder.
 ## Modules Needed: 
 
 ```
-cv2
-glob
-numpy
-random
+pip install opencv-python
+pip install glob2
+pip install numpy
+pip install random2
 math
 sys
 ```
