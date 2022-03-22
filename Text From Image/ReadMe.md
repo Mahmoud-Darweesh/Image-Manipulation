@@ -10,7 +10,6 @@ Each time you run the script it will add the text to it and won't delete the ima
 
 ## Modules Needed: 
 
-
 ```
 pip install opencv-python
 pip install python-math
