@@ -25,4 +25,3 @@ pip install os-sys
 ### Output image:
 
 ![image](https://user-images.githubusercontent.com/95291720/157925156-b5616ec0-1e83-42d3-89a0-e41496b13400.png)
-
